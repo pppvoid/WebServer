@@ -5,10 +5,6 @@
 			{
 				"appID": "32H93D7PFQ.com.nhnent.pokerclassic",
 				"paths": [ "*", "/WebServer" ]
-			},
-			{
-				"appID": "F5NU2PA3PK.com.nhnent.pokerclassic.test",
-				"paths": [ "*", "/WebServer" ]
 			}
 		]
 	}
