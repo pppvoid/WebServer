@@ -1,4 +1,4 @@
-{ // iOS 13 이상 지원
+{ 
 	"applinks": {
 		"details": [
 			{
