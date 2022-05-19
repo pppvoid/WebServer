@@ -1,0 +1,15 @@
+{ // iOS 12 이하 지원
+	"applinks": {
+		"apps": [],
+		"details": [
+			{
+				"appID": "32H93D7PFQ.com.nhnent.pokerclassic",
+				"paths": [ "*" ]
+			},
+			{
+				"appID": "F5NU2PA3PK.com.nhnent.pokerclassic.test",
+				"paths": [ "*" ]
+			}
+		]
+	}
+}

@@ -1,0 +1,15 @@
+{ // iOS 13 이상 지원
+	"applinks": {
+		"details": [
+			{
+				"appIDs": [ "32H93D7PFQ.com.nhnent.pokerclassic" ],
+				[ "F5NU2PA3PK.com.nhnent.pokerclassic.test" ],
+				"components": [
+					{
+						"/": "*"
+					}
+				]
+			}
+		]
+	}
+}
