@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "32H93D7PFQ.com.nhnent.pokerclassic",
-				"paths": [ "*", "/WebServer" ]
+				"paths": [ "*" ]
 			}
 		]
 	}
