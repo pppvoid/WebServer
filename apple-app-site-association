@@ -1,4 +1,4 @@
-{ // iOS 12 이하 지원
+{ 
 	"applinks": {
 		"apps": [],
 		"details": [
